@@ -1,1 +1,2 @@
-printf(""[Dlalala~~~")
+printf("lalala~~~")
+printf("lululu~~~")
